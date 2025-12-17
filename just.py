@@ -1,2 +1,1 @@
 print("krishna")
-print("krishna")
