@@ -1,6 +1,3 @@
 print("krishna")
 print("dipayan")
 print("bhunia")
-print("krishna")
-print("dipayan")
-print("bhunia")
